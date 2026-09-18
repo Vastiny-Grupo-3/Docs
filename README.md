@@ -24,3 +24,7 @@ Durante esta etapa, foram realizadas atividades relacionadas à definição e es
 - O que é x O que não é
 - Product Backlog v1
 - Proposta Tema Projeto
+
+### 📁 Documentos da Sprint 2
+
+Em construção...
