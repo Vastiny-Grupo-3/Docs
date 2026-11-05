@@ -28,4 +28,19 @@ Durante esta etapa, foram realizadas atividades relacionadas à definição e es
 
 ### 📁 Documentos da Sprint 2
 
+- Wireframe v2
+- Diagrama de Solução de Software (Diagrama de Container)
+- Lean UX Canvas
+- Modelagem BD v2
+- Product Backlog v2
+- Documentação v2
+- Protótipo Site Institucional
+- Planilha de Especificação (SDD) + Arquivo MD
+- Planilha de Arquitetura
+- GANTT
+- Apresentação Sprint 2
+- Lições Aprendidas Sprint 2
+
+### 📁 Documentos da Sprint 3
+
 Em construção...
